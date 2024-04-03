@@ -13,7 +13,7 @@ import java.util.Date;
 public class ABC_HotelUi {
 
     public static void main(String[] args) {
-      // while loop to loop processes 
+      // while loop to loop processes.
         while (true) {
                 // welcome dialog box 
             int reserve = JOptionPane.showConfirmDialog(null, "                   Welcome!" + "\n" + " Would you like to reserve a room?", "makeReservation", JOptionPane.YES_NO_OPTION);
